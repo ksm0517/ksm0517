@@ -1,5 +1,5 @@
 <p>
-  👋&nbsp; Hi there! I'm <b>AI engineer</b> using torch framework. 🚀<br/>
+  👋 Hi there! I'm <b>AI engineer</b> using torch framework. 🚀<br/>
   I frequently playing elctric guitar🎸. <br/>
   I also can make video by using vegas pro. <br/>
   I hope to develop program which can delete discomfort and improve productivity. <br/><br/>
