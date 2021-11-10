@@ -6,7 +6,7 @@
 </p>
 
 <p>
-  <a href='https://ksm0517.github.io/' target="_blank">Click here</a> to approach my CV
+  <a href='https://ksm0517.github.io/' target="_blank">Click here</a> to approach my CV <br/>
 </p>
 
 <p>
