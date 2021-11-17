@@ -1,5 +1,5 @@
 <p>
-  👋 Hi there! I'm disire to become <b>AI engineer</b><br/>
+  👋 Hi there! I'm desire to become <b>AI engineer</b><br/>
   I can use torch framework. But if I need to learn I can also study keras and tf 🚀<br/>
   I frequently playing elctric guitar🎸. <br/>
   I also can make video by using vegas pro. <br/>
