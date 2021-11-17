@@ -1,5 +1,6 @@
 <p>
-  👋 Hi there! I'm <b>AI engineer</b> using torch framework. 🚀<br/>
+  👋 Hi there! I'm disire to become <b>AI engineer</b><br/>
+  I can use torch framework. But if I need to learn I can also study keras and tf 🚀<br/>
   I frequently playing elctric guitar🎸. <br/>
   I also can make video by using vegas pro. <br/>
   I hope to develop program which can delete discomfort and improve productivity. <br/><br/>
@@ -10,7 +11,7 @@
   <a href="mailto:7tlsdlf@gmail.com" target="_blank"><img src="https://img.shields.io/badge/7tlsdlf@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
   <a href="https://www.facebook.com/ksm0517" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white"/></a>
 <p>
-  <a href='https://ksm0517.github.io/resume/' target="_blank">Click here</a> to approach my resume <br/>
+  💬<a href='https://ksm0517.github.io/resume/' target="_blank">Click here</a> to approach my resume <br/>
 </p>
 
 </p>
