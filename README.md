@@ -1,7 +1,7 @@
 <p>
   👋 Hi there! I desire to become <b>AI engineer</b><br/>
   I can use torch framework. But if I need to learn I can study keras and tf 🚀<br/>
-  I frequently playing elctric guitar🎸. <br/>
+  I frequently playing electric guitar🎸. <br/>
   I also can make video🎞️ by using vegas pro.📹 <br/>
   I hope to develop program which can delete discomfort and improve productivity. <br/><br/>
 </p>
