@@ -1,6 +1,5 @@
 <p>
-  👋 Hi there! I desire to become <b>AI engineer</b><br/>
-  I can use torch framework. But if I need to learn I can study keras and tf 🚀<br/>
+  Hi👋 I'm AI engineer elliot<br/>
   I frequently playing electric guitar🎸. <br/>
   I also can make video🎞️ by using vegas pro.📹 <br/>
   I hope to develop program which can delete discomfort and improve productivity. <br/><br/>
@@ -26,10 +25,10 @@
   <img src="https://img.shields.io/badge/Open3D-2C2D72?style=flat-square&logo=pandas&logoColor=white"/> 
 </p>
 <p>
-  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
 </p>
 
 #### Co-working platform
