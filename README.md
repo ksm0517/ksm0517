@@ -6,7 +6,7 @@
 </p>
 
 <p>
-  <a href="https://blog.naver.com/7tkfkd/" target="_blank"><img src="https://img.shields.io/badge/Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
+  <a href="https://velog.io/@ksm0517/posts" target="_blank"><img src="https://img.shields.io/badge/Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
   <a href="mailto:7tlsdlf@gmail.com" target="_blank"><img src="https://img.shields.io/badge/7tlsdlf@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
   <a href="https://www.facebook.com/ksm0517" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white"/></a>
 <p>
